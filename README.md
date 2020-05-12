@@ -5,9 +5,9 @@ Technology Stack : Python :- Sklearn , Chatterbot , Gensim and other libraries ;
 
 ## Output
 
-# 1
+# Snippet 1
 ![](output_images/overflow.jpeg)
-# 2
-![](output_images/dialog.jpeg)
-# 3
+# Snippet 2
 ![](output_images/inherit.jpeg)
+# Snippet 3
+![](output_images/mixed.jpeg)
