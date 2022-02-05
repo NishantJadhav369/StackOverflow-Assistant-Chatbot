@@ -6,7 +6,9 @@ Technology Stack : Python :- Sklearn , Chatterbot , Gensim and other libraries ;
 
 ## Results 
 
-<img width="691" alt="bot1" src="https://user-images.githubusercontent.com/35873124/152657694-57508556-5371-4d77-aed8-3ecc12ca26e9.png">
+Generic conversation developed by the bot:
+
+<img width="360" alt="bot1" src="https://user-images.githubusercontent.com/35873124/152657901-8644d352-ec38-451d-a7ee-05e67f9a0e20.png">
 
 <img width="316" alt="bot2" src="https://user-images.githubusercontent.com/35873124/152657702-e979b4fb-b030-4d74-80ec-e729273a14aa.png">
 
